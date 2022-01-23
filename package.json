@@ -1,0 +1,22 @@
+{
+  "name": "npm_jquery_homework",
+  "version": "1.0.0",
+  "description": "description text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlysk1ll/npm_jquery_homework.git"
+  },
+  "author": "onlysk1ll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlysk1ll/npm_jquery_homework/issues"
+  },
+  "homepage": "https://github.com/onlysk1ll/npm_jquery_homework#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
